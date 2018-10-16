@@ -8,7 +8,7 @@
     {
       "id": 2,
       "name": "Load state through the store",
-      "isComplete": true
+      "isComplete": false
     },
     {
       "id": 3,
