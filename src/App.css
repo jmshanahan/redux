@@ -57,3 +57,17 @@ li {
   top: 120px;
 
 }
+li span.delete-item{
+  visibility: hidden;
+}
+span.delete-item button {
+  background: none;
+  border: none;
+  font-size: 1em;
+  font-weight: bold;
+  text-decoration: none;
+  columns: red;
+}
+li:hover span.delete-item{
+  visibility: visible;
+}
